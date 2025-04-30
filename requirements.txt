@@ -1,0 +1,11 @@
+pip install os
+pip install glob
+pip install torch
+pip install cv2
+pip install albumentations 
+pip install matplotlib.pyplot 
+pip install numpy as np
+pip install collections
+pip install torchvision
+pip install pandas
+pip install PIL 
